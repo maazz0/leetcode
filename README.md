@@ -30,7 +30,7 @@ Each solution is written with **clean code, meaningful comments, and optimized l
 - Improve SQL query optimization  
 - Participate in coding contests  
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/maazz0?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500"/> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/maaznpc?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500"/> </p>
 
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> </p>
